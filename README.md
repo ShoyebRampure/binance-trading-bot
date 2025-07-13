@@ -242,11 +242,13 @@ Potential improvements for production use:
 - Portfolio tracking
 - Automated trading strategies
 
-## Contact
+## 📬 Contact
 
 For questions or issues, please contact:
-- Email: [Your Email]
-- GitHub: [Your GitHub Profile]
+
+- **Email**: shoyebrampure@gmail.com  
+- **GitHub**: [ShoyebRampure](https://github.com/ShoyebRampure)
+
 
 ## License
 
